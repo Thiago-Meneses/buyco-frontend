@@ -1,18 +1,18 @@
-# Getting Started with Create React App
+# Teste Front-End Buy
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Olá! Este é meu projeto para o teste de Front-End da BuyCo.
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `yarn start`
+### Passo a Passo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+1º Passo:Dentro do diretório principal que possui os arquivos abrir o terminal e executar o commando " npm install  " 
+2º Passo:Acessar a pasta server usando o comando " cd server " e digitar o comando " npm install "
+3º Passo:Ainda dentro da pasta server usar o comando " npm start "
+4º Passo:Abrir outro terminal localizado no diretório principal e executar o comando " yarn start "
+5º Passo:Caso apareca a mensagem para executar o app em outra port,  digitar  " y "
 
 ### `yarn test`
 
