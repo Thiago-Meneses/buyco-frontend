@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background-color: #1d2525;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#logo{
+    width:100px;
+    height:100px;
+    margin-left: 10%;
+}
+
+.navigation-bar{
+    display: flex;
+    justify-content: space-around;
+}
+
+.eachone{
+    background-color: rgb(138, 135, 113);
+    border: 1px solid black;
+    height: 30px;
+    width: 30px;
+}
+
+#global{
+    background:none;
+    height: 1000px;
+    width: 90%;
+    margin-left: 5%;
+    padding: 10px;
+}
+
+
+
+
+
+
+

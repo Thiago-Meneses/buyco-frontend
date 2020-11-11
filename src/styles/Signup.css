@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#container-form{
+    background: none;
+    width: 86%;
+    height: 1100px;
+    margin-left: 7%;
+}
+
+.div-input{
+    width: 60%;
+    background: none;
+    display: flex;
+    padding: 0px;
+    margin-bottom: 2vh;
+}
+
+h1{
+    background: none;
+    color: #ffda22;
+    font-weight: lighter;
+    font-size: 2.5rem;
+    margin-bottom: 1%;
+}
+
+#h1-2{
+    margin-top: 10%;
+}
+
+#form{
+    padding: 10px;
+    width: 100%;
+    margin-left: 0;
+    background-color:#1d2525;
+    color: #ffda22;
+    font-size: 15px;
+    padding: 3% 5%;
+    border: 2pt solid #ffda22;
+}
+
+#form label{
+    padding: 2vh 0;
+    padding-left: 1vw;
+    width: 30%;
+    background-color: rgb(158, 158, 63);
+    font-weight: bold;
+    color: #ffda22;
+    background-color:  #503d3f;
+}
+
+#form input{
+    background-color: #5f5553;
+    padding: 2vh 0;
+    padding-left: 2%;
+    width: 70%;
+    font-size: 1rem;
+    outline: none;
+    position: relative;
+}
+
+#link-return-signup{
+    background-color:  #ffda22;
+    padding: 3vh 5vw;
+    text-decoration: none;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 2rem;
+    font-weight: bold;
+    color: #2d3a3a;
+    transition: 0.2s;
+}
+
+#link-return-signup:hover{
+    background-color:  rgba(255, 216, 21, 0.623);
+}
+
+
+#btn-submit{
+    background-color:  #ffda22;
+    width: 60%;
+    margin-top: 7%;
+    padding: 2% 10%;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #2d3a3a;
+    transition: 0.2s;
+}
+
+#btn-submit:hover{
+    background-color:  rgba(255, 216, 21, 0.623);
+}
+
+.normal{
+    color: #ffda22;
+}
+
+.address{
+    color: #ffda22;
+}
+
+.geo{
+    color: #ffda22;
+}
+
+#city-input{
+    color: #ffda22;
+}
+
+#sAddress-input{
+    color: #ffda22;
+}
+
+#zipCode-input{
+    color: #ffda22;
+}
