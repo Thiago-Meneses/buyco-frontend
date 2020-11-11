@@ -24,7 +24,7 @@ Aparecendo a mensagem para executar o app em outra port,  digitar "**y**"
 
 # Informações Adicionais
 
-•Realizar este teste me permitiu desenvolver vários conhecimentos que ainda não possuia, fui capaz de desenvolver todas as páginas com quase todos os requisios, contudo não cheguei a implementar uma ordenação por id e nome e não utilizei uma biblioteca de controle de estado, algo que ainda tenho que aprender com mais profundidade.
+•Realizar esse teste me permitiu desenvolver vários conhecimentos que ainda não possuia, fui capaz de desenvolver todas as páginas com quase todos os requisios, contudo não cheguei a implementar uma ordenação por id e nome e não utilizei uma biblioteca de controle de estado, algo que ainda tenho que aprender com mais profundidade.
 
 •Inicialmente meu plano era usar apenas um deploy para executar a página, após várias tentativas percebi que devido a API rodar localmente provavlmente isso estava atrapalhando aos dados de serem mostrados com o deploy, de qualquer maneira, ainda consegui usar o deploy pelo menos para mostrar a estrutura básica do app.
 **Deploy:** https://thiago-meneses.github.io/challenge/#/
