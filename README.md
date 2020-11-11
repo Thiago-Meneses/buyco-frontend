@@ -29,3 +29,5 @@ Aparecendo a mensagem para executar o app em outra port,  digitar "**y**"
 →Inicialmente meu plano era usar apenas um deploy para executar a página, após várias tentativas percebi que devido a API rodar localmente isso provavelmente estava atrapalhando aos dados de serem mostrados com o deploy. Ainda foi possível mostrar a estrutura básica do app.
 **Deploy:** https://thiago-meneses.github.io/challenge/#/
 
+→O cadastro de novos usuários está funcionando normalmente, como não tive tempo de implementar a ordenação, os usuários novos aparecerão no final da lista, basta navegar pelas páginas.
+
