@@ -2,17 +2,18 @@
 
 Olá! Este é meu projeto para o teste de Front-End da BuyCo.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### Passo a Passo
+## Passo a Passo
 
 1º Passo:Dentro do diretório principal que possui os arquivos abrir o terminal e executar o commando " npm install  " 
+
 2º Passo:Acessar a pasta server usando o comando " cd server " e digitar o comando " npm install "
+
 3º Passo:Ainda dentro da pasta server usar o comando " npm start "
+
 4º Passo:Abrir outro terminal localizado no diretório principal e executar o comando " yarn start "
+
 5º Passo:Caso apareca a mensagem para executar o app em outra port,  digitar  " y "
+
 
 ### `yarn test`
 
