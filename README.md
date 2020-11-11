@@ -6,19 +6,19 @@ Olá! Este é meu projeto para o teste de Front-End da BuyCo.
 Após clonar ou fazer o download do repositório seguir os seguintes passos:
 
 ### **1º Passo:**
-Dentro do diretório principal que possui os arquivos abrir o terminal e executar o commando ** npm install  **
+Dentro do diretório principal que possui os arquivos abrir o terminal e executar o commando **npm install**
 
 ### **2º Passo:**
-Acessar a pasta server usando o comando ** cd server ** e digitar o comando ** npm install **
+Acessar a pasta server usando o comando **cd server** e digitar o comando **npm install**
 
 ### **3º Passo:**
-Ainda dentro da pasta server usar o comando ** npm start **
+Ainda dentro da pasta server usar o comando **npm start**
 
 ### **4º Passo:**
-Abrir outro terminal localizado no diretório principal e executar o comando ** yarn start **
+Abrir outro terminal localizado no diretório principal e executar o comando **yarn start**
 
 ### **5º Passo:**
-Caso apareca a mensagem para executar o app em outra port,  digitar ** y **
+Caso apareca a mensagem para executar o app em outra port,  digitar **y**
 
 
 ### `yarn test`
