@@ -6,7 +6,7 @@ Olá! Este é meu projeto para o teste de Front-End da BuyCo.
 Após clonar ou fazer o download do repositório seguir os seguintes passos:
 
 ### **1º Passo:**
-Dentro do diretório principal que possui os arquivos abrir o terminal e executar o commando **npm install**
+Abrir um terminal dentro do diretório principal e executar o comando **npm install**
 
 ### **2º Passo:**
 Acessar a pasta server usando o comando **cd server** e digitar o comando **npm install**
@@ -15,16 +15,15 @@ Acessar a pasta server usando o comando **cd server** e digitar o comando **npm 
 Ainda dentro da pasta server usar o comando **npm start**
 
 ### **4º Passo:**
-Abrir outro terminal localizado no diretório principal e executar o comando **yarn start**
+Abrir outro terminal que esteja localizado no diretório principal e executar o comando **yarn start**
 
 ### **5º Passo:**
-Caso apareca a mensagem para executar o app em outra port,  digitar **y**
+Aparecendo a mensagem para executar o app em outra port,  digitar **y**
 
 
-### `yarn test`
+# Observações
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Realizar este teste me permitiu desenvolver vários conhecimentos que ainda não possuia, fui capaz de desenvolver todas as páginas com quase todos os requisios, contudo não cheguei a implementar uma ordenação por id e nome e não utilizei uma biblioteca de controle de estado, algo que ainda tenho que aprender com mais profundidade.
 
 ### `yarn build`
 
