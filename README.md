@@ -18,7 +18,7 @@ Ainda dentro da pasta server usar o comando **npm start**
 Abrir outro terminal que esteja localizado no diretório principal e executar o comando **yarn start**
 
 ### **5º Passo:**
-Aparecendo a mensagem para executar o app em outra port,  digitar **y**
+Aparecendo a mensagem para executar o app em outra port,  digitar "**y**"
 
 
 
