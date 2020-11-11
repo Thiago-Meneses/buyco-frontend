@@ -22,7 +22,7 @@ Aparecendo a mensagem para executar o app em outra port,  digitar "**y**"
 
 
 
-# Observações
+# Informações Adicionais
 
 •Realizar este teste me permitiu desenvolver vários conhecimentos que ainda não possuia, fui capaz de desenvolver todas as páginas com quase todos os requisios, contudo não cheguei a implementar uma ordenação por id e nome e não utilizei uma biblioteca de controle de estado, algo que ainda tenho que aprender com mais profundidade.
 
